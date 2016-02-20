@@ -109,7 +109,7 @@ $(document).ready(function() {
 			//columnWidth:370,
 			isFitWidth: true,
 			isResizable: true,
-			isAnimated: !Modernizr.csstransitions,
+			isAnimated: !MediaError.csstransitions,
 			gutterWidth: 25
 		});
 
