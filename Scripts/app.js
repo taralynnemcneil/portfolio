@@ -107,21 +107,27 @@
     
     /* ----- Project One ----- */
     var replaceProjectOneFirst = function () {
-        
+      var projectOneFrist;
+      projectOneFrist = document.getElementById('projectOneFirst');
+      projectOneFrist.innerHTML = "This is a banner I did while I was at my placement with PDG Media. The goal was to promote the different flavours of cold drinks coffee culture has to offer, in a banner ad.";  
     };
     
     replaceProjectOneFirst();
     // end of project one first
     
     var replaceProjectOneSecond = function () {
-        
+      var projectOneSecond;
+      projectOneSecond = document.getElementById('projectOneSecond');
+      projectOneSecond.innerHTML = "I chose light colors to compliement the colors of the different drinks. The use of different typefaces makes the banner more eye-catching and fun to look at. The light blue background also help make the beverages standout.";
     };
     
     replaceProjectOneSecond();
     // end of project one second
     
     var replaceProjectOneThird = function () {
-        
+      var projectOneThird;
+      projectOneThird = document.getElementById('projectOneThird');
+      projectOneThird.innerHTML = "Client: Coffee Culture; Project: Banner ad of print and web; Designer(s): Tara McNeil.";
     };
     
     replaceProjectOneThird();
@@ -132,21 +138,27 @@
     
     /* ----- Project Two ----- */
     var replaceProjectTwoFirst = function () {
-        
+      var projectTwoFrist;
+      projectTwoFrist = document.getElementById('projectTwoFirst');
+      projectTwoFrist.innerHTML = "This is a class project. The objective was to Construct a simple page template with a header, navigation area, sidebar (or aside), page content and footer areas. The page width shall be liquid at a maximum of 960px and aminimum of 720px wide and automatically centered. The design will be a landing page for your favourite brand of candy. Incorporate some interesting facts about the candy, some eyepopping imagery and perhaps even some nutritional information.";  
     };
     
     replaceProjectTwoFirst();
     // end of project two first
     
     var replaceProjectTwoSecond = function () {
-        
+      var projectTwoSecond;
+      projectTwoSecond = document.getElementById('projectTwoSecond');
+      projectTwoSecond.innerHTML = "I used colors from the brand to make it match. Using proper css selectors and html elements to layout the page with as minimal code as possible.";
     };
     
     replaceProjectTwoSecond();
     // end of project two second
     
     var replaceProjectTwoThird = function () {
-        
+      var projectTwoThird;
+      projectTwoThird = document.getElementById('projectTwoThird');
+      projectTwoThird.innerHTML = "Class: Web User Interface Design; Project: Construct a landing page for your favorite candy; Designer(s): Tara McNeil.";
     };
     
     replaceProjectTwoThird();
