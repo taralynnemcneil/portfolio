@@ -77,7 +77,7 @@
     var replaceGdMain = function () {
         var gdMain;
         gdMain = document.getElementById('gdMain');
-        gdMain.innerHTML = "Now that's more like it. Here I know what I'm doing.";
+        gdMain.innerHTML = "Now that's more like it. I've been working in graphic design a little longer.";
     };
 
     replaceGdMain();
@@ -91,5 +91,233 @@
 
     replaceGdSub();
     // end of gd sub
+    
+    /* ==============================================
+        PORTFOLIO
+    ============================================== */
+    
+    /* ----- Project One ----- */
+    var replaceProjectOneFirst = function () {
+        
+    };
+    
+    replaceProjectOneFirst();
+    // end of project one first
+    
+    var replaceProjectOneSecond = function () {
+        
+    };
+    
+    replaceProjectOneSecond();
+    // end of project one second
+    
+    var replaceProjectOneThird = function () {
+        
+    };
+    
+    replaceProjectOneThird();
+    // end of project one third
+    
+    /* ----- End of Project One ----- */
+    
+    
+    /* ----- Project Two ----- */
+    var replaceProjectTwoFirst = function () {
+        
+    };
+    
+    replaceProjectTwoFirst();
+    // end of project two first
+    
+    var replaceProjectTwoSecond = function () {
+        
+    };
+    
+    replaceProjectTwoSecond();
+    // end of project two second
+    
+    var replaceProjectTwoThird = function () {
+        
+    };
+    
+    replaceProjectTwoThird();
+    // end of project two third
+    
+    /* ----- End of Project Two ----- */
+    
+    
+    /* ----- Project Three ----- */
+    var replaceProjectThreeFirst = function () {
+        
+    };
+    
+    replaceProjectThreeFirst();
+    // end of project three first
+    
+    var replaceProjectThreeSecond = function () {
+        
+    };
+    
+    replaceProjectThreeSecond();
+    // end of project three second
+    
+    var replaceProjectThreeThird = function () {
+        
+    };
+    
+    replaceProjectThreeThird();
+    // end of project three third
+    
+    /* ----- End of Project Three ----- */
+    
+    
+    /* ----- Project Four ----- */
+    var replaceProjectFourFirst = function () {
+        
+    };
+    
+    replaceProjectFourFirst();
+    // end of project Four first
+    
+    var replaceProjectFourSecond = function () {
+        
+    };
+    
+    replaceProjectFourSecond();
+    // end of project Four second
+    
+    var replaceProjectFourThird = function () {
+        
+    };
+    
+    replaceProjectFourThird();
+    // end of project Four third
+    
+    /* ----- End of Project Four ----- */
+    
+    
+    /* ----- Project Five ----- */
+    var replaceProjectFiveFirst = function () {
+        
+    };
+    
+    replaceProjectFiveFirst();
+    // end of project Five first
+    
+    var replaceProjectFiveSecond = function () {
+        
+    };
+    
+    replaceProjectFiveSecond();
+    // end of project Five second
+    
+    var replaceProjectFiveThird = function () {
+        
+    };
+    
+    replaceProjectFiveThird();
+    // end of project Five third
+    
+    /* ----- End of Project Five ----- */
+    
+    
+    /* ----- Project Six ----- */
+    var replaceProjectSixFirst = function () {
+        
+    };
+    
+    replaceProjectSixFirst();
+    // end of project Six first
+    
+    var replaceProjectSixSecond = function () {
+        
+    };
+    
+    replaceProjectSixSecond();
+    // end of project Six second
+    
+    var replaceProjectSixThird = function () {
+        
+    };
+    
+    replaceProjectSixThird();
+    // end of project Six third
+    
+    /* ----- End of Project Six ----- */
+    
+    
+    /* ----- Project Seven ----- */
+    var replaceProjectSevenFirst = function () {
+        
+    };
+    
+    replaceProjectSevenFirst();
+    // end of project Seven first
+    
+    var replaceProjectSevenSecond = function () {
+        
+    };
+    
+    replaceProjectSevenSecond();
+    // end of project Seven second
+    
+    var replaceProjectSevenThird = function () {
+        
+    };
+    
+    replaceProjectSevenThird();
+    // end of project Seven third
+    
+    /* ----- End of Project Seven ----- */
+    
+    
+    /* ----- Project Eight ----- */
+    var replaceProjectEightFirst = function () {
+        
+    };
+    
+    replaceProjectEightFirst();
+    // end of project Eight first
+    
+    var replaceProjectEightSecond = function () {
+        
+    };
+    
+    replaceProjectEightSecond();
+    // end of project Eight second
+    
+    var replaceProjectEightThird = function () {
+        
+    };
+    
+    replaceProjectEightThird();
+    // end of project Eight third
+    
+    /* ----- End of Project Eight ----- */
+    
+    
+    /* ----- Project Nine ----- */
+    var replaceProjectNineFirst = function () {
+        
+    };
+    
+    replaceProjectNineFirst();
+    // end of project Nine first
+    
+    var replaceProjectNineSecond = function () {
+        
+    };
+    
+    replaceProjectNineSecond();
+    // end of project Nine second
+    
+    var replaceProjectNineThird = function () {
+        
+    };
+    
+    replaceProjectNineThird();
+    // end of project Nine third
+    
+    /* ----- End of Project Nine ----- */
 
 })();
