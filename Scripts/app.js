@@ -1,3 +1,10 @@
+/* ===============================================
+		  File Name: App
+          Authour: Tara McNeil
+          Site Name: Portfolio | Tara McNeil
+          File Description: Javascript
+================================================ */
+
 (function () {
     
     

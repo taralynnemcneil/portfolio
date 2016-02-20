@@ -1,3 +1,10 @@
+<!-- ===============================================
+		  File Name: contact
+          Authour: Tara McNeil
+          Site Name: Portfolio | Tara McNeil
+          File Description: PHP
+================================================ -->
+
 <?php 
 $emailTo = 'taralynnemcneil@gmail.com';
 $siteTitle = 'Portfolio Tara McNeil';
