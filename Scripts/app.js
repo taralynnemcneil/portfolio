@@ -132,7 +132,6 @@
             .to({x:155, y:152}, 2000)
             .wait(5000)
             .to({x:-300, y:-300}, 2000);
-            
         
         createjs.Ticker.framerate = 60;
         createjs.Ticker.addEventListener("tick", tickHandler);
